@@ -5,4 +5,4 @@ let mostProfitableNeighborhood = 'chelsea';
 
 mostProfitableNeighborhood = 'Upper West Side';
 
-let companyCeo = 'Susan Smith', 'Lauren Hart';
+let companyCeo = 'Susan Smith';
